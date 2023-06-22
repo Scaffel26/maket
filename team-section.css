@@ -1,0 +1,21 @@
+@media screen and (max-width: 1200px) {
+    .team-section{
+        padding: 48px 24px;
+    }
+}
+
+.team-content {
+    max-width: 680px;
+    text-align: center;
+}
+
+.team-actions{
+    justify-content: center;
+}
+
+.team-card{
+    width: 100%;
+    height: auto;
+}
+
+
